@@ -12,7 +12,7 @@ final class NetworkService {
     private let host = "https://text-translator2.p.rapidapi.com"
     
     private let requiredHeaders: [String: String] = [
-        "X-RapidAPI-Key": "a6d6fde1cdmsh897360d74bc73c4p1fe32djsn87d40fd19d43",
+        "X-RapidAPI-Key": "YOUR_API_KEY_HERE",
         "X-RapidAPI-Host": "text-translator2.p.rapidapi.com"
     ]
     
